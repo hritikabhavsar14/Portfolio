@@ -6,10 +6,10 @@ I have a strong passion for generating insights out of data and help curate stra
 ## Experience
 About Me
 Education:
-Master’s in Business Analytics (2024-2025) – University of Illinois Urbana-Champaign
-Bachelor’s in Electronics & Communication Engineering (2019-2023) – NIT Karnataka
+-Master’s in Business Analytics (2024-2025) – University of Illinois Urbana-Champaign
+-Bachelor’s in Electronics & Communication Engineering (2019-2023) – NIT Karnataka
 
-##Professional Experience:
+## Professional Experience:
 
 -Analytics Consultant at ABInBev
 Led marketing analytics projects, delivering insights that drove $2M in revenue growth and increased stakeholder adoption by 83%.
@@ -36,4 +36,5 @@ Collaborated with program administrators to enhance student experiences and cont
 
 -Executive Member, ABInBev Branding Squad
 Managed inter-team communication and budgeting for organizational branding activities.
-### 
+### Contact
+Reach out to me at (hritikabhavsar14@gmail.com)
