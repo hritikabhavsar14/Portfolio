@@ -37,4 +37,4 @@ Collaborated with program administrators to enhance student experiences and cont
 -Executive Member, ABInBev Branding Squad
 Managed inter-team communication and budgeting for organizational branding activities.
 ## Contact
-Reach out to me at[hritikabhavsar14@gmail.com] (hritikabhavsar14@gmail.com)
+Reach out to me at [hritikabhavsar14@gmail.com](hritikabhavsar14@gmail.com)
